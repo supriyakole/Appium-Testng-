@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T20:26:54 IST" name="Suite" finished-at="2022-07-26T20:29:58 IST" duration-ms="184076">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T20:26:54 IST" name="Test" finished-at="2022-07-26T20:29:58 IST" duration-ms="184076">
+      <class name="testngDemo.TimeSpinner">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testngDemo.TimeSpinner@618425b5]" started-at="2022-07-26T20:26:54 IST" name="setUp" finished-at="2022-07-26T20:28:45 IST" duration-ms="111010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="sampleTest()[pri:0, instance:testngDemo.TimeSpinner@618425b5]" started-at="2022-07-26T20:28:45 IST" name="sampleTest" finished-at="2022-07-26T20:29:26 IST" duration-ms="41472" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngDemo.TimeSpinner@618425b5]" started-at="2022-07-26T20:29:27 IST" name="tearDown" finished-at="2022-07-26T20:29:58 IST" duration-ms="30993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngDemo.TimeSpinner -->
+      <class name="testngDemo.DialNumberPOCO">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testngDemo.DialNumberPOCO@1e1a0406]" started-at="2022-07-26T20:26:54 IST" name="setUp" finished-at="2022-07-26T20:28:18 IST" duration-ms="84202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="DialTestPoco()[pri:0, instance:testngDemo.DialNumberPOCO@1e1a0406]" started-at="2022-07-26T20:28:18 IST" name="DialTestPoco" finished-at="2022-07-26T20:28:35 IST" duration-ms="16689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DialTestPoco -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testngDemo.DialNumberPOCO@1e1a0406]" started-at="2022-07-26T20:28:36 IST" name="tearDown" finished-at="2022-07-26T20:29:07 IST" duration-ms="30757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testngDemo.DialNumberPOCO -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
